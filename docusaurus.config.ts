@@ -85,32 +85,28 @@ const config: Config = {
           items: [
             {
               label: 'Office',
-              to: '/docs/office/startscherm',
+              to: '/docs/office/navigeren/startscherm',
             },
             {
               label: 'Stock',
-              to: '/docs/intro',
+              to: '/docs/stock/',
             },
             {
               label: 'Retail',
-              to: '/docs/intro',
+              to: '/docs/retail/',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Navigatie',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Admisol website',
+              href: 'https://admisol.be/benl/',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'LinkedIn',
+              href: 'https://www.linkedin.com/company/admisolnv',
             },
           ],
         },
@@ -118,17 +114,17 @@ const config: Config = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
+              label: 'Admisol ondernemers',
+              href: 'https://admisol.be/benl/office.html',
             },
             {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'Admisol accountants',
+              href: 'https://admisol.be/benl/accountancy.html',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Admisol NV`,
     },
     prism: {
       theme: prismThemes.github,
