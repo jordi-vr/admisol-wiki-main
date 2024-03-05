@@ -29,6 +29,10 @@ const config: Config = {
     locales: ['nl'],
   },
 
+  plugins: [
+    
+  ],
+
   presets: [
     [
       'classic',
@@ -49,6 +53,16 @@ const config: Config = {
           customCss: './src/css/custom.css',
         },
       } satisfies Preset.Options,
+    ],
+  ],
+
+  themes: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+      ({
+        hashed: true,
+      }),
     ],
   ],
 
