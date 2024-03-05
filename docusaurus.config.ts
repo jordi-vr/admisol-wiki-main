@@ -64,7 +64,7 @@ const config: Config = {
       },
       items: [
         {
-          to:"/docs/office/navigeren/startscherm",
+          to:"/docs/Office/navigeren/startscherm",
           sidebarId: 'tutorialSidebar',
           position: 'left',
           label: 'Office',
@@ -85,15 +85,7 @@ const config: Config = {
           items: [
             {
               label: 'Office',
-              to: '/docs/office/navigeren/startscherm',
-            },
-            {
-              label: 'Stock',
-              to: '/docs/stock/',
-            },
-            {
-              label: 'Retail',
-              to: '/docs/retail/',
+              to: '/docs/Office/navigeren/startscherm',
             },
           ],
         },
