@@ -1,0 +1,9 @@
+{
+  "label": "Klanten en leveranciersfiches",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Vanuit het hoofdmenu kan je op twee manieren naar overzicht met de klanten- leveranciersfiches gaan. Je kan via de ‘basisbestanden’ of rechtstreeks via het lint boven in de tool met de respectievelijke toetsen: ",
+    "image": "/imgage.png"
+  }
+}
