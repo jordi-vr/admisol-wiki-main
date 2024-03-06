@@ -76,6 +76,7 @@ const config: Config = {
       },
       items: [
         {
+          
           to:"/docs/Office/navigeren/startscherm",
           sidebarId: 'tutorialSidebar',
           position: 'left',
