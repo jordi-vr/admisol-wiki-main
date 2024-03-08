@@ -13,4 +13,4 @@ Via de groene plus in onderstaand scherm kun je een taalcode bijmaken. Standaard
 
 Als je een extra taal instelt, wordt automatisch een veld gecreëerd op de schermen waar een omschrijving wordt gevraagd. Bijvoorbeeld: je maakt taalcode ‘ESP’ voor een Spaanse output. Dan zal je bij het aanmaken van een nieuwe boekhoudkundige rekening de optie hebben om een Spaanse omschrijving te geven. Dit kan je ook afdrukken in de lijsten. 
 
-![alt text](image-15.png)
+![alt text](../../../resources/dossierinstellingen/image-15.png)

@@ -34,11 +34,11 @@ De nummering van een dagboek moet altijd doorlopend zijn; er mogen geen nummers 
 
 Je kunt alleen boekingen maken waarbij debet en credit gelijk zijn. Als er een onevenwicht is, krijg je daar een melding van: 
 
-![alt text](image.png)
+![alt text](../../../resources/documentboeken/image.png)
 
-![alt text](image-1.png)
+![alt text](../../../resources/documentboeken/image-1.png)
 
 
 Bedragen die wel in evenwicht zijn, krijgen de volgende melding: 
 
-![alt text](image-2.png)
+![alt text](../../../resources/documentboeken/image-2.png)

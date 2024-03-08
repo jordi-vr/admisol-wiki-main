@@ -4,11 +4,11 @@ sidebar_position: 1
 
 # Bank inboeken
 
-![alt text](image.png)
+![alt text](../../../../resources/documentboeken/bankboeken/image.png)
 
 We overlopen de verschillende onderdelen bovenstaand financieel boekingsscherm. Hier zijn we terechtgekomen door een financieel dagboek te openen en vervolgens op de groene plus te klikken. 
 
-![alt text](image-1.png)
+![alt text](../../../../resources/documentboeken/bankboeken/image-1.png)
 
 <u>Boek- en stukdatum</u>
 De boekdatum is automatisch de geselecteerde boekdatum die wordt genomen. De stukdatum kan dezelfde zijn als de boekdatum, maar niet per se. Meer weten over het verschil tussen de boek- en stukdatum?
@@ -22,7 +22,7 @@ Dit is het bedrag zoals vermeld op het bankuittreksel. Gebruik een positief bedr
 <u>Saldo</u>
 Controleer het saldo. Bij het aanmaken van een nieuwe bankverrichting wordt het huidige banksaldo weergegeven. Het saldo staat momenteel op "-558,97". Na het opslaan zal er nog eens “-63,89” worden afgetrokken. Je saldo wordt verrichting na verrichting verwerkt. Wil je weten hoe je je beginsaldo aanpast?
 
-![alt text](image-2.png)
+![alt text](../../../../resources/documentboeken/bankboeken/image-2.png)
 
 Hieronder kunnen we de transactie toeschrijven aan een klant, leverancier of rekening. Je kan dit voor de volledige transactie doen in de velden bovenaan, of je kan dit lijn per lijn aanpassen in de kolom ‘type’. 
 
@@ -35,7 +35,7 @@ Als het bedrag betrekking heeft op een leverancier, voer dan een deel van de naa
 <u>Rekening</u>
 Als het bedrag noch betrekking heeft op een klant, noch op een leverancier, voer dan de relevante rekening in. 
 
-![alt text](image-3.png)
+![alt text](../../../../resources/documentboeken/bankboeken/image-3.png)
 
 Net daaronder vind je een blauw kader terug. Dit kan gevuld zijn of niet. Als je werkt met automatische instroom van CODA-bestanden in je dossier, kan er informatie instaan over de verrichting zoals hierboven. In dat geval zal ons systeem op basis van referentie en bedrag zoeken naar overeenstemmende elementen in je dossier.
 

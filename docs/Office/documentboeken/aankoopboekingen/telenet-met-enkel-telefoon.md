@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Telenet met enkel telefoon
 
-![alt text](image.png)
+![alt text](../../../../resources/documentboeken/aankoopboekingen/image.png)
 
 Hoe beginnen we hieraan? Je gaat naar je dagboek van inkomende facturen, drukt op de groene plus. In principe moeten er in je blanco boeking maar twee velden worden ingevuld vooraleer wij een boekvoorstel kunnen genereren:
 

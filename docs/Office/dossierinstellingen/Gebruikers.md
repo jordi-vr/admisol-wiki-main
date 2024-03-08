@@ -6,7 +6,7 @@ sidebar_position: 3
 
 Vanuit het menu 'dossier instellingen' in ‘instellingen’ navigeer je naar ‘gebruikers’. Hier krijg je een lijst met alle gebruikers van je dossier. Je dubbelklikt om een bestaande gebruiker te openen, of je drukt op de groene plus om een nieuwe aan te maken. 
 
-![alt text](image-11.png)
+![alt text](../../../resources/dossierinstellingen/image-11.png)
 
 ## Nieuwe gebruiker maken
 
@@ -72,7 +72,7 @@ Hier kun je per gebruiker een uurtarief invoeren. Via prijsafspraken kun je dit 
 
 Zodra je de nieuwe gebruiker bewaart, krijg je onderstaand bericht: 
 
-![alt text](image-12.png)
+![alt text](../../../resources/dossierinstellingen/image-12.png)
 
 *Een gebruiker aanmaken heeft altijd invloed op de facturatie en gaat gepaard met extra kosten. Om te voorkomen dat je per ongeluk een gebruiker aanmaakt, wordt er een sms-code naar je mobiele telefoon verzonden.*
 

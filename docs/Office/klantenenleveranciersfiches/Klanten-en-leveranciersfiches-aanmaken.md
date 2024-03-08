@@ -9,7 +9,7 @@ Maar hoe maak je nu een nieuwe klanten of leveranciersfiche aan? Je drukt op de 
 
 ## Adresgegevens
 
-![alt text](image-1.png)
+![alt text](../../../resources/klantenenleveranciers/image-1.png)
 
 <u>Naam</u>
 
@@ -54,7 +54,7 @@ Let op: om deze vermelding op de factuur te zien, moet je nog de nodige aanpassi
 
 ## Betalingsinformatie
 
- ![alt text](image-2.png)
+ ![alt text](../../../resources/klantenenleveranciers/image-2.png)
 
 <u>Mededeling</u>
 
@@ -92,7 +92,7 @@ Als je dit aanvinkt, wordt de klant niet meegenomen in de rappels.
 
 ## Boekhoudkundig
 
-![alt text](image-3.png)
+![alt text](../../../resources/klantenenleveranciers/image-3.png)
 
 <u>Tax-adres profiel</u>
 Hier selecteer je het type adres, zoals binnenlands-, medecontractant, EU, enzovoort. Deze instelling bepaalt hoe je facturen geboekt worden. Je kunt deze instelling altijd aanpassen per factuur op het moment van boeking.
@@ -115,13 +115,13 @@ Door dit aan te vinken, kan er automatisch een fiche aangemaakt worden voor alle
 
 ## Extra
 
-![alt text](image-4.png)
+![alt text](../../../resources/klantenenleveranciers/image-4.png)
 
 Hier kan je vrij extra info meegeven over de klant of leverancier, dit verschijnt niet op de facturen. Kan gebruikt worden voor CRM-doeleinden. 
 
 ## Commercieel
 
-![alt text](image-5.png)
+![alt text](../../../resources/klantenenleveranciers/image-5.png)
 
 <u>Groep</u>
 
@@ -133,7 +133,7 @@ Het is mogelijk om een gebruiker verantwoordelijk te stellen voor een klant of v
 
 ## Adrescode
 
-![alt text](image-6.png)
+![alt text](../../../resources/klantenenleveranciers/image-6.png)
 
 De adrescode is de unieke code van een klant of leverancier. Je mag dit zien als een klant- of leveranciersnummer. Het wordt automatisch gegenereerd door ons, maar kan uitgeschakeld worden als u in de parameters “automatische sleutel” uitvinkt. 
 

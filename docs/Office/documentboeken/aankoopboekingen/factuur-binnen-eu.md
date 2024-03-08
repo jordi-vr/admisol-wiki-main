@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Factuur binnen de EU
 
-![alt text](image-4.png)
+![alt text](../../../../resources/documentboeken/aankoopboekingen/image-4.png)
 
 Ten slotte nog een laatste voorbeeld. Stel dat we te maken hebben met een leverancier niet uit het binnenland, maar binnen de EU. Dan verwerken we dit op bovenstaande manier. We passen het tax-adres profiel aan, en zo komt de kost op het correcte vak te staan: 86. 
 

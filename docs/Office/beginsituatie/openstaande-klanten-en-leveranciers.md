@@ -23,4 +23,4 @@ Het eerste jaar dat je onze software gebruikt, kun je de openstaande posten impo
 
 Voor de import ga je via de instellingen naar ‘hulpprogramma's’, en vervolgens ‘import openstaande posten klanten/leveranciers’. Je volgt dan onderstaande stappen in het vervolgscherm: 
 
-![alt text](image.png)
+![alt text](../../../resources/beginsituatie/image.png)

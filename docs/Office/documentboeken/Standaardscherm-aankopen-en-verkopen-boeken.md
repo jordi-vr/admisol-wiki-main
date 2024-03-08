@@ -6,11 +6,11 @@ sidebar_position: 2
 
 We gaan het boeken in verschillende stappen doornemen:
 
-![alt text](image-3.png)
+![alt text](../../../resources/documentboeken/image-3.png)
 
 ## Keuze van klanten of leveranciers
 
-![alt text](image-4.png)
+![alt text](../../../resources/documentboeken/image-4.png)
 
 Indien je leverancier al een leveranciersfiche heeft in je dossier, kan je gewoon de naam van de leverancier indrukken. In ons voorbeeld typen we bijvoorbeeld “ele”, en dan zullen wij je alle leveranciers voorstellen waar “ele” in de naam voorkomt. Je tikt de juiste keuze aan.
 
@@ -18,21 +18,21 @@ Je kan ook de hyperlink “leverancier” aanklikken zoals in het voorbeeld hier
 
 Enkele interessante toetsen: 
 
-![alt text](image-5.png) Ga naar het overzicht van je klanten of leveranciers en kies hier je klant of leverancier. Je kan dit overzicht ook openen door gewoon op de hyperlink te klikken “klant” of “leverancier” zoals in het voorbeeld hierboven.
+![alt text](../../../resources/documentboeken/image-5.png) Ga naar het overzicht van je klanten of leveranciers en kies hier je klant of leverancier. Je kan dit overzicht ook openen door gewoon op de hyperlink te klikken “klant” of “leverancier” zoals in het voorbeeld hierboven.
 
-![alt text](image-6.png) Maak een nieuwe klanten- of leveranciersfiche aan. Als je deze fiche ten slotte opslaat, wordt het veld leverancier/klant ingevuld op de factuur.
+![alt text](../../../resources/documentboeken/image-6.png) Maak een nieuwe klanten- of leveranciersfiche aan. Als je deze fiche ten slotte opslaat, wordt het veld leverancier/klant ingevuld op de factuur.
 Tip: als je de naam van een nieuwe klant of leverancier invult die niet wordt herkend door admisol, zullen we automatisch vragen of je naar het overzicht wilt gaan of een nieuwe klant wilt aanmaken.
 
-![alt text](image-7.png) Hiermee ga je naar de fiche van de klant waar je de nodige aanpassingen kunt doen.
+![alt text](../../../resources/documentboeken/image-7.png) Hiermee ga je naar de fiche van de klant waar je de nodige aanpassingen kunt doen.
 
-![alt text](image-8.png) Controleert de geldigheid van het BTW-nummer via VIES.
+![alt text](../../../resources/documentboeken/image-8.png) Controleert de geldigheid van het BTW-nummer via VIES.
 
-![alt text](image-9.png) Een directe link naar Google Maps
+![alt text](../../../resources/documentboeken/image-9.png) Een directe link naar Google Maps
 
 
 ## Identificatiegegevens van het document
 
-![alt text](image-10.png)
+![alt text](../../../resources/documentboeken/image-10.png)
 
 <u>Boekdatum</u>
 
@@ -74,7 +74,7 @@ Dit is de mededeling die bij de betaling aan de leverancier moet worden vermeld,
 
 In de meeste gevallen hoef je hier niets meer te doen. Als je al een tegenrekening hebt ingevoerd bij de leverancier, wordt deze automatisch ingevuld. Als het een binnenlandse transactie betreft, is de BTW al gesplitst. Je kunt hier ook alles aanpassen. Je kunt regels toevoegen in de blanco regel, waarna er telkens een nieuwe blanco regel verschijnt.
 
-![alt text](image-11.png)
+![alt text](../../../resources/documentboeken/image-11.png)
 
 <u>Rekening</u>
 
@@ -118,9 +118,9 @@ De eerder gebruikte boekingen en instellingen voor deze klant of leverancier wor
 
 Je kan je boeking alleen bewaren als de bedragen, debet en credit gelijk zijn. Er zal een groene melding verschijnen als de bedragen in evenwicht zijn en je dus kan opslaan. Een rode melding krijg je als er nog geen evenwicht is. 
 
-![alt text](image-12.png) Klik op de diskette-toets om je boeking op te slaan. Vervolgens zal je het nummer zien verschijnen waaronder het document wordt bewaard, bv. IF.2023.a.1. Meer info over documentnummers? 
+![alt text](../../../resources/documentboeken/image-12.png) Klik op de diskette-toets om je boeking op te slaan. Vervolgens zal je het nummer zien verschijnen waaronder het document wordt bewaard, bv. IF.2023.a.1. Meer info over documentnummers? 
 
-![alt text](image-13.png)
+![alt text](../../../resources/documentboeken/image-13.png)
 
 
 
@@ -128,10 +128,10 @@ Je kan je boeking alleen bewaren als de bedragen, debet en credit gelijk zijn. E
 
 Je hebt altijd controle over wat je boekt. Hieronder zie je hoe de individuele regels daadwerkelijk worden geboekt.
 
-![alt text](image-14.png)
+![alt text](../../../resources/documentboeken/image-14.png)
 
 ## Overzicht BTW-vakken
 
 Je behoudt altijd controle over de verwerking van de BTW. Je ziet meteen in welke BTW-vakken het wordt geboekt.
 
-![alt text](image-15.png)
+![alt text](../../../resources/documentboeken/image-15.png)

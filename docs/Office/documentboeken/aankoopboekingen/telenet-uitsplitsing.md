@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Telenet met uitsplitsing telefoon en internet
 
-![alt text](image-1.png)
+![alt text](../../../../resources/documentboeken/aankoopboekingen/image-1.png)
 
 Stel nu dat de factuur van Telenet niet louter betrekking heeft op telefoonkosten, maar ook op internet. Dan moet je splitsen over twee rekeningen. Als je bij ‘totaalbedrag’ 121 invult, zal onze software alles toeschrijven aan de rekening telefoon. 
 

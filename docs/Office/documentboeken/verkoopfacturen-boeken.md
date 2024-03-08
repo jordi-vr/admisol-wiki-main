@@ -13,7 +13,7 @@ Wat het boeken van de verkopen betreft, heb je in onze software meerdere opties:
 
 Je navigeert naar je verkoopdagboek, drukt op de ‘groene plus’. Daarna vul je het veld van de klant in, een totaalbedrag, en wij genereren een boekvoorstel op basis van de gegevens die we terugvinden in de klantenfiche (tax-adres profiel en tegenrekening).
 
-![alt text](image-18.png)
+![alt text](../../../resources/documentboeken/image-18.png)
 
 Wil je nu factureren aan een medecontractant, zonder BTW, binnen de EU, aan verschillende BTW-tarieven, etc? Dan speel je net zoals bij de aankoopfacturen met de parameters in het raster. Je kan hier gerust extra rekeningen toevoegen, tax-code en tax-adres profiel wijzigen, BTW-percentage bijwerken, etc… 
 

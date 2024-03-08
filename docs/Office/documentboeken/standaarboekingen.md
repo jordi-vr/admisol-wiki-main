@@ -18,4 +18,4 @@ Bewaar deze standaardboeking door onderaan bij de bijkomende functies te klikken
 
 *Let op: Als je terug wilt naar het standaardsysteem, kun je de standaardboeking eenvoudig wissen. Klik onderaan de boeking op "Standaardboeking wissen voor deze klant/leverancier".*
 
-![alt text](image-16.png)
+![alt text](../../../resources/documentboeken/image-16.png)

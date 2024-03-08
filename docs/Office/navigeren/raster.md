@@ -6,37 +6,37 @@ sidebar_position: 3
 
 In onze tool kom je vaak terecht bij rasters. We nemen hier even het voorbeeld van ons aankoopdagboek. Indien we vanuit het hoofdmenu via de boekhouding de inkomende facturen open, krijgen we dit te zien: 
 
-![alt text](image.png)
+![alt text](../../../resources/navigeren/image.png)
 
 We krijgen voor dit journaal een overzicht met alle boekingen. Het nieuwste document staat altijd bovenaan. In dit overzicht kun je eerdere boekingen opzoeken, eventueel ook nog aanpassen.
 
 Toelichting van enkele basistoetsen
 
-![alt text](image-1.png) Ga terug naar het vorige scherm
+![alt text](../../../resources/navigeren/image-1.png) Ga terug naar het vorige scherm
 
-![alt text](image-2.png) Keer in het grid terug naar je recentste facturen
+![alt text](../../../resources/navigeren/image-2.png) Keer in het grid terug naar je recentste facturen
 
-![alt text](image-3.png) Keer in het grid terug naar een vorig overzicht met recentere facturen
+![alt text](../../../resources/navigeren/image-3.png) Keer in het grid terug naar een vorig overzicht met recentere facturen
 
-![alt text](image-4.png) Ga in het grid naar een volgend overzicht met minder recente facturen
+![alt text](../../../resources/navigeren/image-4.png) Ga in het grid naar een volgend overzicht met minder recente facturen
 
 
-![alt text](image-5.png) Ga in het grid naar de oudste facturen
+![alt text](../../../resources/navigeren/image-5.png) Ga in het grid naar de oudste facturen
 
-![alt text](image-6.png) Boek een nieuw document
+![alt text](../../../resources/navigeren/image-6.png) Boek een nieuw document
 
-![alt text](image-7.png) Verwijder boeking – je moet er wel voor zorgen dat je nummering doorlopend blijft. Daarom kun je alleen het laatste document verwijderen, en alleen als je in een niet-afgesloten periode zit.
+![alt text](../../../resources/navigeren/image-7.png) Verwijder boeking – je moet er wel voor zorgen dat je nummering doorlopend blijft. Daarom kun je alleen het laatste document verwijderen, en alleen als je in een niet-afgesloten periode zit.
 
-![alt text](image-8.png) Boeking opvragen – indien de gevraagde boeking in een afgesloten periode zit, kun je enkel opvragen, meer aanpassen. Als je in dat geval toch wijzigingen wilt maken, moet je een tegenboeking doen.
+![alt text](../../../resources/navigeren/image-8.png) Boeking opvragen – indien de gevraagde boeking in een afgesloten periode zit, kun je enkel opvragen, meer aanpassen. Als je in dat geval toch wijzigingen wilt maken, moet je een tegenboeking doen.
 
-![alt text](image-9.png) Klik om een Excel-bestand te openen met de gegevens uit het raster
+![alt text](../../../resources/navigeren/image-9.png) Klik om een Excel-bestand te openen met de gegevens uit het raster
 
 
 ## Raster personaliseren 
 
 Via het tandwieltje in het raster kun je aangeven welke velden je wil zien en in welke volgorde je ze wil zien. 
 
-![alt text](image-10.png)
+![alt text](../../../resources/navigeren/image-10.png)
 
 Bij getoonde kolommen gaan de kolommen bovenaan zichtbaar zijn uiterst links. De kolommen bij beschikbare kolommen zijn niet zichtbaar.
 
@@ -52,7 +52,7 @@ Stel, we zijn op zoek naar een specifieke factuur van Proximus. We kennen het fa
     2. Vervolgens vernauwen we de filter door “proxi” te tikken
     3. Ten slotte kunnen we in de velden voor bedragen en data op “+” klikken om aan te geven welke range we willen zien: groter dan, kleiner dan, gelijk aan… 
 
-![alt text](image-11.png)
+![alt text](../../../resources/navigeren/image-11.png)
 
 Bij zowel bedragen, getallen als datums kan je deze geavanceerde filters gebruiken om waarden groter dan, kleiner dan, exact gelijk aan of niet gelijk aan te zoeken.
 

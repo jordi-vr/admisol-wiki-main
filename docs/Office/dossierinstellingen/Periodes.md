@@ -6,11 +6,11 @@ sidebar_position: 4
 
 Periodes zijn essentieel binnen accountancy software. Volgens de richtlijnen van het IAB hebben alle documenten zowel een boekdatum als een stukdatum. De stukdatum is vrij, maar de boekdatum moet altijd binnen een afgebakende periode vallen.
 
-![alt text](image-13.png)
+![alt text](../../../resources/dossierinstellingen/image-13.png)
 
 Via dit onderdeel kun je nieuwe boekjaren en periodes aanmaken. Dit doe je door op de groene plus te klikken. 
 
-![alt text](image-14.png)
+![alt text](../../../resources/dossierinstellingen/image-14.png)
 
 ## Boekjaar
 Een boekjaar hoeft niet gelijk te lopen met een kalenderjaar. Het kan beginnen op 1 januari of op 17 september. Een boekjaar kan ook langer of korter zijn dan een kalenderjaar. 

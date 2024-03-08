@@ -6,7 +6,7 @@ sidebar_position: 2
 
 ## Parameters dossier
 
-![alt text](image-1.png)
+![alt text](../../../resources/dossierinstellingen/image-1.png)
 
 <u>Bedrijfsnummer</u>
 
@@ -24,7 +24,7 @@ Dit zorgt ervoor dat alle boekhoudkundige documenten chronologisch genummerd wor
 
 ## BTW-aangifte
 
-![alt text](image-2.png)
+![alt text](../../../resources/dossierinstellingen/image-2.png)
 
 <u>BTW/IC-aangifte maandelijks</u>
 
@@ -42,7 +42,7 @@ Gebruik deze optie als er geen BTW-aangiftes nodig zijn.
 
 Deze optie wordt enkel gebruikt als de aangiftes door de accountant gebeuren via het Intervat-scherm in Admisol Accountancy. Je zal je aangifte niet meer kunnen downloaden, maar ze zal rechtstreeks worden doorgestuurd naar je accountant.
 
-![alt text](image-3.png)
+![alt text](../../../resources/dossierinstellingen/image-3.png)
 
 <u>Dossier aangever (kantoor)</u>
 
@@ -54,7 +54,7 @@ Voer de gebruikersnaam in van de persoon die de aangifte zal doen.
 
 ## Analytisch
 
-![alt text](image-4.png)
+![alt text](../../../resources/dossierinstellingen/image-4.png)
 
 <u>Afdeling</u>
 
@@ -78,7 +78,7 @@ Gebruik deze optie als je de kosten per medewerker wenst bij te houden.
 
 ## Diverse
 
-![alt text](image-5.png)
+![alt text](../../../resources/dossierinstellingen/image-5.png)
 
 <u>Rekening voor toegestane korting contante betaling (klanten)</u>
 
@@ -142,7 +142,7 @@ Voer een prefix in die altijd aan het begin van het project-ID zal worden weerge
 
 ## Artikel
 
-![alt text](image-6.png)
+![alt text](../../../resources/dossierinstellingen/image-6.png)
 
 <u>Standaardfiche</u>
 
@@ -185,7 +185,7 @@ Bij het aanmaken van artikelen zal deze tax-code standaard worden voorgesteld vo
 
 ## Klanten self-service
 
-![alt text](image-7.png)
+![alt text](../../../resources/dossierinstellingen/image-7.png)
 
 <u>Klanten self-service (CSS)</u>
 
@@ -201,7 +201,7 @@ Kies de standaardmunteenheid binnen onze software.
 
 ## Extra
 
-![alt text](image-8.png)
+![alt text](../../../resources/dossierinstellingen/image-8.png)
 
 <u>Extra wachtwoord</u>
 
@@ -213,13 +213,13 @@ Kies hoe je de vervaldatum wilt berekenen: eerst dagen dan einde maand, of: eers
 
 ## E-mail 
 
-![alt text](image-9.png)
+![alt text](../../../resources/dossierinstellingen/image-9.png)
 
 Kies hier uit welke bronnen facturen mogen worden aangeleverd per mail. 
 
 ## Documenten
 
-![alt text](image-10.png)
+![alt text](../../../resources/dossierinstellingen/image-10.png)
 
 Hier kun je bepalen hoe groot de bestanden zijn die kunnen worden opgeladen in onze software. Je kan het maximum aantal pagina’s bepalen en de grootte van één individuele pagina. Hou er rekening mee dat in dit voorbeeld een document van 2 pagina's dus tot 300 KB groot mag zijn. Onze maximumlimiet per pagina is 15MB. Indien je dit wilt hanteren, klik je gewoon de onderste toets aan. Als je bewaart, zal je dit moeten bevestigen met een sms-code.
 
