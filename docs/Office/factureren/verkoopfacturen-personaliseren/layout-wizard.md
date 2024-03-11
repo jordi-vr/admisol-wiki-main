@@ -6,7 +6,7 @@ sidebar_position: 3
 
 Het voordeel van onze layout-wizard is dat we je begeleiden om je layout in te stellen via onze software. Het nadeel is dat je minder vrijheid hebt om de factuur aan te passen naar je persoonlijke ‘look and feel’. 
 
-![alt text](/resources/factureren/verkoopfacturen-personaliseren/image-1.png)
+![alt text](../../../../resources/factureren/verkoopfacturen-personaliseren/image-1.png)
 
 Hoe ga je tewerk in onze layout-wizard? We overlopen de verschillende onderdelen:  
 
@@ -73,7 +73,7 @@ Tussen artikelen en algemeen in te stellen.
 <u>Automatisch downloaden</u>
 Zodra je een factuur opslaat, zal deze automatisch worden gedownload. Als je dit afzet, kan je via het printertje altijd nog de pdf genereren.
 
-![alt text](/resources/factureren/verkoopfacturen-personaliseren/image-2.png)
+![alt text](../../../../resources/factureren/verkoopfacturen-personaliseren/image-2.png)
 
 In de hoofding kan je bij tekst de gegevens van je onderneming meegeven. Je kan hier het lettertype, grootte en positie van je adresgegevens zetten. Eventueel kan je onder afbeelding ook een logo uploaden. 
 
@@ -86,24 +86,24 @@ Je kan in deze velden gebruikmaken van de gegevens uit je bedrijfsidentificatie.
 #comp_ad_zip #comp_ad_city: Plaats dossier
 #comp_ad_vat: BTW nummer dossier. 
 
-![alt text](/resources/factureren/verkoopfacturen-personaliseren/image-3.png)
+![alt text](../../../../resources/factureren/verkoopfacturen-personaliseren/image-3.png)
 
 Bij de promotekst kan je eventueel je jaarlijkse vakantie meegeven aan klanten, een slogan die je hebt ontworpen, de aankondiging van een nieuw product of dienst… ook hier is er de mogelijkheid om een afbeelding op te laden. 
 
 Met de functies onderaan ‘automatisch laten invullen met document info van adressen’ kan je de tekst die je bij het factureren ingeeft automatisch op deze plek laten verschijnen. 
 
-![alt text](/resources/factureren/verkoopfacturen-personaliseren/image-4.png)
+![alt text](../../../../resources/factureren/verkoopfacturen-personaliseren/image-4.png)
 
 De voettekst is het veld onderaan de pagina, eventueel kan je in de plaats van in de hoofding hier je adresgegevens laten verschijnen, en bovenaan louter het logo. Dat kies je volledig zelf. 
 
-![alt text](/resources/factureren/verkoopfacturen-personaliseren/image-5.png)
+![alt text](../../../../resources/factureren/verkoopfacturen-personaliseren/image-5.png)
 
 In dit tekstveld kan je je verkoopsvoorwaarden meegeven. 
 
-![alt text](/resources/factureren/verkoopfacturen-personaliseren/image-6.png)
+![alt text](../../../../resources/factureren/verkoopfacturen-personaliseren/image-6.png)
 
 Indien je lange facturen opstelt, kunnen paginanummers interessant zijn. Hier kan je instellen of ze er staan en hoe ze er dan uitzien. 
 
-![alt text](/resources/factureren/verkoopfacturen-personaliseren/image-7.png)
+![alt text](../../../../resources/factureren/verkoopfacturen-personaliseren/image-7.png)
 
 Met deze handige  functie kun je eenvoudig een template dupliceren naar een ander dagboek of een andere taal.

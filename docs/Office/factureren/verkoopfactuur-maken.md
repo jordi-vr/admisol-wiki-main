@@ -8,22 +8,22 @@ Om een nieuwe factuur op te stellen, navigeren we vanuit het hoofdmenu in het me
 
 Hier zien we twee nieuwe icoontjes in het lint bovenaan: 
 
-![alt text](/resources/factureren/image.png)
+![alt text](../../../resources/factureren/image.png)
 
 Met het linkse kan je de geselecteerde factuur in het raster downloaden. Met het rechtse kun je de geselecteerde factuur verzenden naar je klant. <u>Meer weten over hoe je je mailserver koppelt en mailtemplate maakt, zodat je facturen kan verzenden naar je klanten?</u>
 Wil je nu een nieuwe factuur maken, dan klik je bovenaan in het lint op de groene plus. Een leeg facturatiescherm zal verschijnen. Daarin kunnen we bijvoorbeeld de volgende gegevens invullen: 
 
-![alt text](/resources/factureren/image-1.png)
+![alt text](../../../resources/factureren/image-1.png)
 
 We overlopen de verschillende onderdelen van het scherm: 
 
-![alt text](/resources/factureren/image-2.png)
+![alt text](../../../resources/factureren/image-2.png)
 
 Bij ‘klant’ zoeken we de desbetreffende klant. Indien er nog geen klantenfiche is, kan die eenvoudig van hieruit aanmaken. Je kan daarvoor klikken op het mannetje met de plus naast dit veld, of de naam van je nieuwe klant typen en klikken op ‘nieuw’. 
 
 *Tip: indien je B2B factureert, kan je het BTW-nummer van je klant invullen, dan zullen we de klantenfiche automatisch aanvullen met de info die we vinden in het KBO.*
 
-![alt text](/resources/factureren/image-3.png)
+![alt text](../../../resources/factureren/image-3.png)
 
 <u>Boek-, stuk- en vervaldatum</u>
 De boekdatum is automatisch de huidige datum. Stukdatum kan hiervoor verschillen. De vervaldatum is de datum waartegen de klant zijn of haar factuur moet betalen.
@@ -34,7 +34,7 @@ Optioneel om iets te verduidelijken aan je klant
 <u>Totaalbedrag</u>
 Het totaalbedrag van de factuur. Dit wordt automatisch berekend op basis van de gegevens in het raster onderaan.
 
-![alt text](/resources/factureren/image-4.png)
+![alt text](../../../resources/factureren/image-4.png)
 
 <u>Korting contant en aantal dagen </u>
 Indien je klanten genieten van een korting indien ze binnen de x-aantal dagen betalen, kun je dat in dit veld aangeven. Dit verschijnt ook op je factuur. 
@@ -42,7 +42,7 @@ Indien je klanten genieten van een korting indien ze binnen de x-aantal dagen be
 <u>Contante betaling met extra info</u>
 Indien de klant reeds een cash-betaling heeft gedaan, eventueel zelfs maar een deel van het totale bedrag, dan kan je dit hier ook ingeven. Dit zal, samen met de extra info, op de factuur van je klant verschijnen. Hou er rekening mee dat dit ook een extra kasboeking genereert in het gelinkte kasboek.
 
-![alt text](/resources/factureren/image-5.png)
+![alt text](../../../resources/factureren/image-5.png)
 
 Vervolgens vul je het detail van je factuur in. Hier kan je op twee manieren te werk gaan: 
 
@@ -79,6 +79,6 @@ Het BTW-percentage wordt al ingevuld op basis van de tax-relaties.
 <u>Rekening</u>
 Deze wordt automatisch ingevuld op basis van de artikelfiche, maar kan opnieuw worden aangepast.
 
-![alt text](/resources/factureren/image-6.png)
+![alt text](../../../resources/factureren/image-6.png)
 
 Onderaan worden je totalen, zowel netto als BTW, bijgehouden. Zodra je tevreden bent over je opgestelde factuur, klik je op opslaan via het diskette-icoontje. Vervolgens zal je zien dat er een pdf-bestand wordt gegenereerd met de factuur in je persoonlijke layout.
