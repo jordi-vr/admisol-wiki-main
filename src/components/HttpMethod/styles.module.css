@@ -1,0 +1,54 @@
+.httpMethod {
+  display: inline-block;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, Courier, monospace;
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-right: 8px;
+  border: 1px solid;
+}
+
+.get {
+  background-color: #61affe;
+  color: white;
+  border-color: #4990e2;
+}
+
+.post {
+  background-color: #49cc90;
+  color: white;
+  border-color: #3cb371;
+}
+
+.put {
+  background-color: #fca130;
+  color: white;
+  border-color: #ff9500;
+}
+
+.delete {
+  background-color: #f93e3e;
+  color: white;
+  border-color: #d73027;
+}
+
+.patch {
+  background-color: #50e3c2;
+  color: white;
+  border-color: #4dd0e1;
+}
+
+.head {
+  background-color: #9012fe;
+  color: white;
+  border-color: #7b1fa2;
+}
+
+.options {
+  background-color: #0d5aa7;
+  color: white;
+  border-color: #1976d2;
+}

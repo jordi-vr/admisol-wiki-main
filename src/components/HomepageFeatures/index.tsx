@@ -1,65 +1,63 @@
-import clsx from 'clsx';
-import Heading from '@theme/Heading';
-import styles from './styles.module.css';
 import React from 'react';
+import styles from './styles.module.css';
+import FeatureCard from '../FeatureCard';
 
 type FeatureItem = {
   title: string;
-  Svg: React.ComponentType<React.ComponentProps<'svg'>>;
-  description: JSX.Element;
+  description: string;
+  icon?: React.ComponentType<React.ComponentProps<'svg'>>;
+  linkTo: string;
+  isExternal?: boolean;
 };
 
 const FeatureList: FeatureItem[] = [
   {
-    title: '100% online',
-    Svg: require('@site/static/img/online.svg').default,
-    description: (
-      <>
-        Werk waar en wanneer u dat wil. Vanuit de Admisol private cloud beschikt u in één oogopslag over al uw gegevens
-      </>
-    ),
+    title: 'Het startscherm',
+    description: 'Hieronder zien jullie een voorbeeld van een mogelijk startscherm. Laten we dit onderdeel per onderdeel overlopen.',
+    icon: require('@site/static/img/online.svg').default,
+    linkTo: '/docs/Office/navigeren/startscherm',
   },
   {
-    title: '100% Veilig',
-    Svg: require('@site/static/img/secure.svg').default,
-    description: (
-      <>
-        Al uw gegevens worden simultaan bewaard in de private cloud in 2 Belgische datacenters, 100km van elkaar verwijderd
-      </>
-    ),
+    title: 'Navigatie',
+    description: 'Onze tool is 100% web-based, wat betekent dat er beperkingen zijn met betrekking tot het gebruik van toetsenbordfuncties.',
+    icon: require('@site/static/img/secure.svg').default,
+    linkTo: '/docs/Office/navigeren/navigatie',
   },
   {
-    title: 'Snelle support',
-    Svg: require('@site/static/img/service.svg').default,
-    description: (
-      <>
-        Geniet van een snelle en persoonlijke helpdesk door programmeurs. Tijd is cruciaal voor een goede boekhouding
-      </>
-    ),
+    title: 'Efficiënt gegevens invoeren',
+    description: 'Je hoeft in onze tool niet altijd de volledige datum uit te schrijven in de velden die daartoe geschikt zijn.',
+    icon: require('@site/static/img/service.svg').default,
+    linkTo: '/docs/Office/navigeren/Efficient-gegevens-invoeren',
+  },
+  {
+    title: 'Raster',
+    description: 'In onze tool kom je vaak terecht bij rasters. We nemen hier even het voorbeeld van ons aankoopdagboek.',
+    icon: require('@site/static/img/service.svg').default,
+    linkTo: '/docs/Office/navigeren/raster',
+  },
+  {
+    title: 'Keuze periode',
+    description: 'Vanuit vrijwel ieder scherm waarin je iets kan uitvoeren dat betrekking heeft op de boekhouding, heb je de mogelijkheid om rechtstreeks je periode te selecteren.',
+    icon: require('@site/static/img/service.svg').default,
+    linkTo: '/docs/Office/navigeren/keuze-periode',
   },
 ];
-
-function Feature({title, Svg, description}: FeatureItem) {
-  return (
-    <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
-      <div className="text--center padding-horiz--md">
-        <Heading as="h3">{title}</Heading>
-        <p>{description}</p>
-      </div>
-    </div>
-  );
-}
 
 export default function HomepageFeatures(): JSX.Element {
   return (
     <section className={styles.features}>
       <div className="container">
-        <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
+        <div className={styles.cardGrid}>
+          {FeatureList.map((item, idx) => (
+            <div key={idx} className={styles.cardWrapper}>
+              <FeatureCard
+                title={item.title}
+                description={item.description}
+                icon={item.icon}
+                linkTo={item.linkTo}
+                isExternal={item.isExternal}
+              />
+            </div>
           ))}
         </div>
       </div>

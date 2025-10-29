@@ -1,11 +1,36 @@
 .features {
-  display: flex;
-  align-items: center;
-  padding: 2rem 0;
+  padding: 4rem 0;
   width: 100%;
 }
 
-.featureSvg {
-  height: 200px;
-  width: 200px;
+.cardGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 24px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.cardWrapper {
+  display: flex;
+  height: 100%;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .features {
+    padding: 2rem 0;
+  }
+  
+  .cardGrid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+    padding: 0 16px;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .cardGrid {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }

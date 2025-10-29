@@ -8,25 +8,29 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://admisol.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/admisol-wiki/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Admisol NV', // Usually your GitHub org/user name.
-  projectName: 'Admisol Manual', // Usually your repo name.
+  organizationName: 'Admisol', // Usually your GitHub org/user name.
+  projectName: 'admisol-wiki', // Usually your repo name.
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  trailingSlash: false,
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'nl',
-    locales: ['nl'],
+    defaultLocale: 'nl-BE',
+    locales: ['nl-BE'],
+  },
+
+  markdown: {
+    mermaid: true,
   },
 
   plugins: [
@@ -43,12 +47,7 @@ const config: Config = {
           // Remove this to remove the "edit this page" links.
           //editUrl:'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          //editUrl:'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+        blog: false, // Disable blog functionality
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -62,6 +61,9 @@ const config: Config = {
       /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
       ({
         hashed: true,
+        language: ["en", "nl"],
+        highlightSearchTermsOnTargetPage: true,
+        explicitSearchResultPath: true,
       }),
     ],
   ],
@@ -69,6 +71,7 @@ const config: Config = {
   themeConfig: {
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
+      hideOnScroll: true,
       title: 'Admisol manual',
       logo: {
         alt: 'Admisol manual',
@@ -107,7 +110,7 @@ const config: Config = {
           items: [
             {
               label: 'Admisol website',
-              href: 'https://admisol.be/benl/',
+              href: 'https://admisol.be/',
             },
             {
               label: 'LinkedIn',
@@ -120,11 +123,11 @@ const config: Config = {
           items: [
             {
               label: 'Admisol ondernemers',
-              href: 'https://admisol.be/benl/office.html',
+              href: 'https://admisol.be/office',
             },
             {
               label: 'Admisol accountants',
-              href: 'https://admisol.be/benl/accountancy.html',
+              href: 'https://admisol.be/accountancy',
             },
           ],
         },
