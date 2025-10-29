@@ -8,15 +8,15 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://admisol.github.io',
+  url: 'https://jordi-vr.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/admisol-wiki/',
+  baseUrl: '/admisol-wiki-main/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Admisol', // Usually your GitHub org/user name.
-  projectName: 'admisol-wiki', // Usually your repo name.
+  organizationName: 'jordi-vr', // Usually your GitHub org/user name.
+  projectName: 'admisol-wiki-main', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   trailingSlash: false,
