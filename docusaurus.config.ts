@@ -65,6 +65,8 @@ const config: Config = {
         language: ["en", "nl"],
         highlightSearchTermsOnTargetPage: true,
         explicitSearchResultPath: true,
+        docsRouteBasePath: "/docs",
+        blogRouteBasePath: "/", // disable blog search since blog is disabled
       }),
     ],
   ],
