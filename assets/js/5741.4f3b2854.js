@@ -1,0 +1,1 @@
+(globalThis.webpackChunkadmisol_wiki=globalThis.webpackChunkadmisol_wiki||[]).push([[5741],{45741:()=>{}}]);
